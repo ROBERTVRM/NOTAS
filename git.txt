@@ -1,0 +1,18 @@
+git init 	Iniciar reprositorio
+git Clone 	Clonar un repositorio exixtente 
+git commit -m "descripcion" crear foto de un commit
+git status     Verificar el estado del repositorio
+git Log 	para ver el historias de Commint
+git diff 	ver direferencia entre commits creados
+git checkout (colorcar los 5 primeros digitos commit_id) - sirve para restaurar el archivo a una version anterior
+
+crear ramas
+
+Git tag -a 
+git branch Escribe nombre d ela Rama (crear una rama)
+git brsnch Listar las ramas exitentes
+
+repositorio remoto (github) svrr1206
+https://github.com/ROBERTVRM/NEXTU.git
+	
+	
